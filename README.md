@@ -12,4 +12,3 @@
 All of these items also have a floating icon above them that turn to face your character as you move, except for the basketball because the spinning icon was starting to make me dizzy.
 
 Move around with standard WASD or arrow keys. Use mouse to look around. To interact with objects, center the object in the center of your view, and click your mouse button. Hitboxes are quite generous, but try getting closer to the object if you're unable to interact at first. 
-
